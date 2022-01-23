@@ -1,23 +1,21 @@
-# Invenitri
-Aplikasi inventory untuk melakukan pendataan barang. 
-Invenitri adalah aplikasi berbasis web yang menggunakan bahasa pemrograman PHP dengan framework Codeigniter 3.1.6 
-dan merupakan versi penyempurnaan dari aplikasi sebelumnya yaitu invenity. 
-Menggunakan template AdminLTE 2.3.11 untuk tampilan yang lebih rapi.
+# Inventory
+Aplikasi inventaris perumahan ini dirasa penting karena verifikasi fisik jumlah dan 
+kondisi barang atau bangunan  yang disimpan dalam inventari, Menyediakan data dan 
+informasi dalam rangka menentukan kebutuhan dan menyusun rencana kebutuhan barang, 
+Memberikan data dan informasi untuk dijadikan bahan/pedoman dalam pengarahan  
+atau perhitungan data rumah untuk kepentingan penjualan dan lainnya. 
+aplikasi rujukan atau aplikasi yang berhubungan dengan aplikasi lainnya, 
+aplikasi ini dapat menyimpan semua informasi itu. Untuk setiap item,  
+dapat menambahkan tanggal detail pembelian seperti nomor model atau nomor seri, 
+serta foto item dan tanda terima. Karena aplikasi ini lebih lengkap penginputan 
+datanya maka dari itu aplikasi ini memilih aplikasi dalam perancangan aplikasi inventaris perumahan ini. 
+Kemudian untuk bahasa pemogramannya sendiri aplikasi ini menggunakan bahasa pemograman 
+PHP, HTML, css, javascript. dengan menggunakan framework codeigniter.
 
-
-## Cara penggunaan aplikasi 
-- Download aplikasi
-- Letakkan pada folder web server anda
-- Buat database dan import file invenitri_database.sql
-- Sesuaikan data koneksi database pada file config/database.php
-- Sesuaikan pengaturan dasar aplikasi pada file config/site.php
-- Akses aplikasi via browser
-
-## Akses admin
+## Login Admin
 - Username : administrator
 - Password : password
 
-## Catatan tambahan
+## Notes
 Aplikasi ini masih dalam proses pengembangan, 
-fitur saat ini hanya mencakup inventorisasi data sederhana dengan berbagai data master terkait. 
-Pembuatan laporan masih dalam pengembangan.
+serta memenuhi tugas TAMK PABW 7/A1
